@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb62cf10-60db-4aad-83da-5c84e4d02e69" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TT8pIQkNqupoyZbcJEn6nqg7ap" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MultiplePostcodesTest.exampleJSONPath">
+    <configuration name="MultiplePostcodesTest.exampleJSONPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredPostcodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.RestassuredPostcodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.RestassuredPostcodes" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.RestassuredPostcodes.MultiplePostcodesTest" />
+      <option name="METHOD_NAME" value="exampleJSONPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglePostcodesTest.postcodesRequestIsSuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredPostcodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.RestassuredPostcodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.RestassuredPostcodes" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.RestassuredPostcodes.SinglePostcodesTest" />
+      <option name="METHOD_NAME" value="postcodesRequestIsSuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MultiplePostcodesTest.exampleJSONPath" />
+        <item itemvalue="JUnit.SinglePostcodesTest.postcodesRequestIsSuccessful" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb62cf10-60db-4aad-83da-5c84e4d02e69" name="Default Changelist" comment="" />
+      <created>1573472905061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573472905061</updated>
+    </task>
+    <servers />
+  </component>
+</project>
